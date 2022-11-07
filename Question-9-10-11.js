@@ -22,7 +22,7 @@ let output2 =
         .map( s => lookup(s)?s.green:s.red)
         .join(" ");
 //console.log("Output 2 is: ", output2);
-
+console.log(output2)
 
 
 
